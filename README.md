@@ -11,15 +11,15 @@ Apresentação no YouTube: https://youtu.be/jBKmN5QKQkQ
 Trabalho de Conclusão de Curso (TCC): https://drive.google.com/file/d/19x5t-LvX5BQdRbAZaKPg0yOM7_DwT5Vo/view?usp=sharing
 
 Grupo:
-Abner Pinto – RA 1816693
-Danilo Donizeti Santos – RA 1836484
-Dorian Carvalho do Nascimento – RA 1836469
-João Ananias Hass – RA 1800255
-Lucio Roberto Garcia Menezes – RA 1829186
-Milton Junior dos Santos – RA 1824103
+- Abner Pinto – RA 1816693
+- Danilo Donizeti Santos – RA 1836484
+- Dorian Carvalho do Nascimento – RA 1836469
+- João Ananias Hass – RA 1800255
+- Lucio Roberto Garcia Menezes – RA 1829186
+- Milton Junior dos Santos – RA 1824103
 
 Banca Avaliadora
-Orientadora: Profª Dra. Thais Santos Castro
-Avaliadora convidada: Profª Dra. Natalia de Souza Pelinson
+- Orientadora: Profª Dra. Thais Santos Castro
+- Avaliadora convidada: Profª Dra. Natalia de Souza Pelinson
 
 Ano: 2022
